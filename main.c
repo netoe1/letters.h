@@ -1,8 +1,8 @@
 #include "letters.c"
 #include <stdio.h>
-#define l 'e'
 
-int main(void){
-
+int main(void)
+{
+d
     return 0;
 }
